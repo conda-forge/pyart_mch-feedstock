@@ -1,6 +1,6 @@
 {% set name = "pyart_mch" %}
-{% set version = "2.0.0" %}
-{% set sha256 = "3a9deab23d56f9d898060ebf20012909dc92ec81dd1a7fed055ce3cc0fb1bd45" %}
+{% set version = "2.0.4" %}
+{% set sha256 = "63c065e942eb30f94c640a4c57395b4f2ad8089bd8cbc27cf0a0372065c5654c" %}
 
 package:
   name: {{ name|lower }}
@@ -8,7 +8,7 @@ package:
 
 source:
   fn: {{ name }}-{{ version }}.tar.gz
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
   sha256: {{ sha256 }}
 
 build:
