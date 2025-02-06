@@ -257,4 +257,5 @@ Feedstock Maintainers
 =====================
 
 * [@meteoswiss-mdr](https://github.com/meteoswiss-mdr/)
+* [@Wolfidan](https://github.com/Wolfidan/)
 
