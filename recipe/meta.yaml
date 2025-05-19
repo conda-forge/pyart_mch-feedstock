@@ -1,6 +1,6 @@
 {% set name = "pyart_mch" %}
-{% set version = "2.0.4" %}
-{% set sha256 = "63c065e942eb30f94c640a4c57395b4f2ad8089bd8cbc27cf0a0372065c5654c" %}
+{% set version = "2.0.5" %}
+{% set sha256 = "593960d27e964a29129cfbcdd63e49ebd222d074a0dfedf6218652d997e3142d" %}
 
 package:
   name: {{ name|lower }}
