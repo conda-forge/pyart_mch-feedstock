@@ -140,7 +140,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-pyart_mch-green.svg)](https://anaconda.org/conda-forge/pyart_mch) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyart_mch.svg)](https://anaconda.org/conda-forge/pyart_mch) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pyart_mch.svg)](https://anaconda.org/conda-forge/pyart_mch) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pyart_mch.svg)](https://anaconda.org/conda-forge/pyart_mch) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pyart__mch-green.svg)](https://anaconda.org/conda-forge/pyart_mch) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyart_mch.svg)](https://anaconda.org/conda-forge/pyart_mch) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pyart_mch.svg)](https://anaconda.org/conda-forge/pyart_mch) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pyart_mch.svg)](https://anaconda.org/conda-forge/pyart_mch) |
 
 Installing pyart_mch
 ====================
@@ -257,5 +257,4 @@ Feedstock Maintainers
 =====================
 
 * [@meteoswiss-mdr](https://github.com/meteoswiss-mdr/)
-* [@Wolfidan](https://github.com/Wolfidan/)
 
