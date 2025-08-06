@@ -45,6 +45,7 @@ requirements:
     - xradar >=0.5.0
     - open-radar-data
     - pandas
+    - cartopy
     - mda-xdrlib
 
 test:
