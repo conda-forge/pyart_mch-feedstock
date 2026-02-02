@@ -1,6 +1,6 @@
 {% set name = "pyart_mch" %}
-{% set version = "2.2.1" %}
-{% set sha256 = "1b8c8fc9c25ad0cf3f3b3dce686fd830f8a2bc07c8cf191cb815d191a6183c8d" %}
+{% set version = "2.3.1" %}
+{% set sha256 = "429ee6563201934d4a901b007db64084bd5fea7bc019e5827b4382b3e8365287" %}
 
 package:
   name: {{ name|lower }}
@@ -12,7 +12,7 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  number: 1
+  number: 0
   script:
     - export RSL_PATH=$PREFIX    # [not win]
     - {{ PYTHON }} -m pip install . --no-deps -vvv
